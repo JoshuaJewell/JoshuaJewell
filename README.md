@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi, I'm Joshua Jewell<br><br>- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br>- 📚 I'm learning CompTIA A+<br>- ⚡ In my free time I ...</p>
+<p align="left">Hi, I'm Joshua Jewell<br><br>- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br>- 📚 I'm learning CompTIA A+<br>- ⚡ In my free time I've been making [Gitpoint](https://github.com/JoshuaJewell/Gitpoint).</p>
 
 ###
 
