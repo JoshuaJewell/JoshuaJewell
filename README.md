@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi, I'm Joshua Jewell<br><br>- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br>- 📚 I'm learning CompTIA A+<br>- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">Invisible Door: Actionpoint Trauma, Inc. Kickers</a> here on GitHub.</p>
+<p align="left">Hi, I'm Joshua Jewell<br><br>- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br>- 📚 I'm learning Julia<br>- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">Invisible Door: Actionpoint Trauma, Inc. Kickers</a> here on GitHub.</p>
 
 ###
 
