@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi, I'm Joshua Jewell<br><br>- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br>- 📚 I'm learning Julia<br>- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">Invisible Door: Actionpoint Trauma, Inc. Kickers</a> here on GitHub.</p>
+<p align="left">Hi, I'm Joshua Jewell<br /><br />- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London<br />- 📚 I'm learning how to update my GitHub more than one a year.<br />- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">Invisible Door: Actionpoint Trauma, Inc. Kickers</a> (immersive sim TypeScript game), <a href = "https://github.com/JoshuaJewell/Custom-Ipsum">Custom Ipsum</a> (Julia markov chain text generator), and <a href = "https://github.com/JoshuaJewell/Step-Free">Step Free AI</a> (novel AI image detection CSSL NN).</p>
 
 ###
 
