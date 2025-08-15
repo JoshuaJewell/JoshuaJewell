@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi, I'm Joshua Jewell<br /><br />- 🔭 I'm reading Animal Biology, Behaviour, Welfare and Ethics at the Royal Veterinary College, University of London (<a href = "https://github.com/JoshuaJewell/abwe2-res">Y2 Resources</a>)<br />- 📚 I'm learning how to update my GitHub more than once per year.<br />- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">IDApTIK</a> (immersive-sim TypeScript game), <a href = "https://github.com/JoshuaJewell/Custom-Ipsum">Custom Ipsum</a> (Julia markov chain text generator), and <a href = "https://github.com/JoshuaJewell/Step-Free">Step Free</a> (novel AI image detection using CSSL NN).</p>
+<p align="left">Hi, I'm Joshua Jewell<br /><br />- 🔭 I'm reading <i>Animal Biology, Behaviour, Welfare and Ethics</i> at the Royal Veterinary College, University of London (<a href = "https://github.com/JoshuaJewell/abwe2-res">Y2 Resources</a>)<br />- 📚 I'm learning how to update my GitHub more than once per year.<br />- ⚡ In my free time I've been making <a href = "https://github.com/JoshuaJewell/IDApTIK">IDApTIK</a> (immersive-sim TypeScript game), <a href = "https://github.com/JoshuaJewell/Custom-Ipsum">Custom Ipsum</a> (advanced Julia placeholder text generator), and <a href = "https://github.com/JoshuaJewell/Step-Free">Step Free</a> (novel AI image detection using CSSL NN).</p>
 
 ###
 
