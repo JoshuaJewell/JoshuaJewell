@@ -64,7 +64,7 @@
   </li>
 </ul>
 
-<h4>Personal & experimental — games, demos and small tooling</h4>
+<h4>Personal & experimental — games & demos</h4>
 <ul>
   <li>
     <strong><a href="https://github.com/JoshuaJewell/IDApTIK">ID:ApTIK</a></strong> — Multiplayer stealth puzzle‑platformer prototype in TypeScript. Has better documentation than ApixiTIK.
