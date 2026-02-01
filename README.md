@@ -53,7 +53,7 @@
   <li>
     <strong><a href="https://github.com/JoshuaJewell/Custom-Ipsum">Custom‑Ipsum</a></strong> — Julia Markov‑chain placeholder‑text generator encoder and decoder architecture with both grammar-aware and domain-independent modes.   
   </li>
-  <li>\
+  <li>
     <strong><a href="https://github.com/JoshuaJewell/agentic">agentic</a></strong> — Experimental collection of Python & Julia agent scripts that interface with LM Studio’s REST API (WIP — use at your own risk). Developed further by <a href="https://github.com/Hyperpolymath/thejeffparadox">Hyperpolymath's TJP repository</a>.
   </li>
   <li>
