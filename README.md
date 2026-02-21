@@ -103,6 +103,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
 
+
+<div align="center">
+    <strong>Ju > Py > teR </strong>
+</div>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
