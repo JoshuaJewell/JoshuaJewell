@@ -70,7 +70,10 @@
     <strong><a href="https://github.com/JoshuaJewell/IDApTIK">ID:ApTIK</a></strong> — Multiplayer stealth puzzle‑platformer prototype in TypeScript. Has better documentation than ApixiTIK.
   </li>
   <li>
-    <strong><a href="https://github.com/JoshuaJewell/IDApixiTIK">ID:ApixiTIK</a></strong> — Lightweight, network‑focused variant of IDApTIK using Pixi and ReScript. Active development branch of ApTIK.
+    <strong><a href="https://github.com/JoshuaJewell/IDApixiTIK">ID:ApixiTIK</a></strong> — Lightweight, network‑focused variant of IDApTIK using Pixi and ReScript. Initial development branch of modern ApTIK.
+  </li>
+  <li>
+    <strong><a href="https://github.com/Hyperpolymath/idaptik">ID:ApTIK (Hyperpolymath)</a></strong> — ReScript fork of IDApTIK with additional resources (e.g. modding studio). Active development branch of ApTIK.
   </li>
   <li>
     <strong><a href="https://github.com/JoshuaJewell/heartbeat">heartbeat</a></strong> — Don't ask, it doesn't work <i>and</i> somehow a major contributer to making my GitHub such a mess. 
@@ -80,6 +83,12 @@
   </li>
   <li>
     <strong><a href="https://github.com/JoshuaJewell/Tubular-for-vis">Tubular‑for‑vis</a></strong> — Fork of Tubular intended provide new playlist visualisation features.
+  </li>
+  <li>
+    <strong><a href="https://github.com/JoshuaJewell/Polity">Polity</a></strong> — Grand strategy computer game about politics and demographics.
+  </li>
+  <li>
+    <strong><a href="https://github.com/Hyperpolymath/the-nash-equilibrium">The Nash Equilibrium</a></strong> — 4X (or 6 depending who you ask) asymmetric board game about ideology in a world on the brink.
   </li>
 </ul>
 
