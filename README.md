@@ -67,7 +67,7 @@
 <h4>Personal & experimental — games & demos</h4>
 <ul>
   <li>
-    <strong><a href="https://github.com/Metadatastitian/IDApTIK">ID:ApTIK</a></strong> — Multiplayer stealth puzzle‑platformer game in Rust. Active development branch of ApTIK.
+    <strong><a href="https://github.com/Metadatastician/IDApTIK">ID:ApTIK</a></strong> — Multiplayer stealth puzzle‑platformer game in Rust. Active development branch of ApTIK.
   </li>
   <li>
     <strong><a href="https://github.com/JoshuaJewell/heartbeat">heartbeat</a></strong> — Don't ask, it doesn't work <i>and</i> somehow a major contributer to making my GitHub such a mess. 
