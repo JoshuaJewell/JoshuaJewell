@@ -44,7 +44,7 @@
     <strong><a href="https://github.com/JoshuaJewell/abwe2-res">abwe2-res</a></strong> — The scripts and data analyses used in my second year project.
   </li>
   <li>
-    <strong><a href="https://github.com/JoshuaJewell/dada2">dada2 (modified)</a></strong> — Performance‑tuned fork of <a href="https://github.com/benjjneb/dada2">benjjneb/dada2</a> with AVX2/AVX‑512, OpenMP and CUDA optimizations for substantially faster amplicon processing.
+    <strong><a href="https://github.com/JoshuaJewell/MetaManifold-WebUI">MetaManifold-WebUI</a></strong> — A Julia pipeline with WebUI for amplicon metabarcoding from raw paired-end Illumina reads to filtered, taxonomy-annotated ASV/OTU tables.
   </li>
 </ul>
 
@@ -60,7 +60,7 @@
     <strong><a href="https://github.com/JoshuaJewell/Step-Free">Step‑Free</a></strong> — Training code, preprocessing and evaluation for AI image‑detection project using contrastive/self‑supervised learning (CSSL) that targets artefacts introduced by variational autoencoders (VAE's) used in AI image generation. Developed further by <a href="https://github.com/Hyperpolymath/zerostep">Hyperpolymath's ZeroStep repository</a>.
   </li>
   <li>
-    <strong><a href="https://github.com/JoshuaJewell/Noahs-APT">Noahs‑APT</a></strong> — Intended to be apt with concurrent fetching of packages for increased speed.
+    <strong><a href="https://github.com/JoshuaJewell/Noahs-APT">Noahs‑APT</a></strong> — Intended to be apt with concurrent fetching of packages for increased speed. (deprecated)
   </li>
 </ul>
 
@@ -79,10 +79,10 @@
     <strong><a href="https://github.com/JoshuaJewell/Tubular-for-vis">Tubular‑for‑vis</a></strong> — Fork of Tubular intended provide new playlist visualisation features.
   </li>
   <li>
-    <strong><a href="https://github.com/JoshuaJewell/Polity">Polity</a></strong> — Grand strategy computer game about politics and demographics.
+    <strong><a href="https://github.com/JoshuaJewell/Polity">Polity</a></strong> — Recursive unit simulation strategy computer game about politics and demographics.
   </li>
   <li>
-    <strong><a href="https://github.com/Hyperpolymath/the-nash-equilibrium">The Nash Equilibrium</a></strong> — 4X (or 6 depending who you ask) asymmetric board game about ideology in a world on the brink.
+    <strong><a href="https://github.com/Hyperpolymath/the-nash-equilibrium">The Nash Equilibrium</a></strong> — 4X (or 6, depending who you ask) asymmetric board game about ideology in a world on the brink.
   </li>
 </ul>
 
